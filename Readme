@@ -1,8 +1,4 @@
-# Tenth Muse Readme
+Tenth Muse Project
 
-## Ingredients
-- Bootstrap v4.1.0
-- jQuery v3.3.1
+A simple Pinterest style layout project for Tenth Muse.
 
-## My Results
-I wanted to try another way to create a "Pinterest" like layout, so I used Bootstrap to create that effect. I now realize that Masonry could be a better option because the images are not in order, but Wordpress could resolves this possibly. I would need more time to research that. Another issue was the navigation padding, but this could be a simple fix. The "Load More" option, I would've liked to have done, unfortunately was having problems with LazyLoad cooperating and I ran out of time. Overall, fun project, pretty simple, but unfortunately no functionality fun. The project took an overall time of 2 to 3 hours.
